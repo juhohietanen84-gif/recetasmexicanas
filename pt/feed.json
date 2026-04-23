@@ -1,0 +1,266 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Receitas Mexicanas Caseiras",
+  "home_page_url": "https://recetasmexicanascaseras.com/",
+  "feed_url": "https://recetasmexicanascaseras.com/feed.json",
+  "description": "Receitas mexicanas autênticas, fáceis de preparar em casa.",
+  "language": "pt",
+  "items": [
+    {
+      "id": "https://recetasmexicanascaseras.com/chilaquiles-verdes-frango/",
+      "url": "https://recetasmexicanascaseras.com/chilaquiles-verdes-frango/",
+      "title": "Chilaquiles Verdes com Frango",
+      "content_text": "Chilaquiles verdes com frango desfiado e molho verde. Café da manhã mexicano clássico em 20 minutos.",
+      "image": "https://recetasmexicanascaseras.com/images/chilaquiles-verdes-frango.webp",
+      "date_published": "2026-04-23T00:00:00Z",
+      "tags": [
+        "chilaquiles verdes",
+        "receita chilaquiles",
+        "café da manhã mexicano"
+      ]
+    },
+    {
+      "id": "https://recetasmexicanascaseras.com/salsa-verde-casera-tomatillo/",
+      "url": "https://recetasmexicanascaseras.com/salsa-verde-casera-tomatillo/",
+      "title": "Molho verde Casera con Tomatillo",
+      "content_text": "Molho verde Casera con Tomatillo. Molho verde hecha con tomatillos asados, pimenta serrano y coentro. La base de decenas de platillos m",
+      "image": "https://recetasmexicanascaseras.com/images/salsa-verde-casera-tomatillo.webp",
+      "date_published": "2026-04-06T00:00:00Z",
+      "tags": [
+        "molho verde casera",
+        "molho de tomatillo",
+        "molho verde Mexicana receta"
+      ]
+    },
+    {
+      "id": "https://recetasmexicanascaseras.com/arroz-rojo-mexicano/",
+      "url": "https://recetasmexicanascaseras.com/arroz-rojo-mexicano/",
+      "title": "Arroz Vermelho Mexicano",
+      "content_text": "Arroz Vermelho Mexicano. Arroz vermelho: el acompañamiento que no puede faltar en una comida Mexicana. Se frite el arroz antes de ",
+      "image": "https://recetasmexicanascaseras.com/images/arroz-rojo-mexicano.webp",
+      "date_published": "2026-04-06T00:00:00Z",
+      "tags": [
+        "arroz vermelho mexicano",
+        "arroz a la Mexicana receta",
+        "como hacer arroz vermelho"
+      ]
+    },
+    {
+      "id": "https://recetasmexicanascaseras.com/guacamole-clasico/",
+      "url": "https://recetasmexicanascaseras.com/guacamole-clasico/",
+      "title": "Guacamole Clásico",
+      "content_text": "Guacamole Clásico. Guacamole con trozos: abacate, cebola, tomate, coentro y limão. Sin cocción, listo en 10 minutos.",
+      "image": "https://recetasmexicanascaseras.com/images/guacamole-clasico.webp",
+      "date_published": "2026-04-06T00:00:00Z",
+      "tags": [
+        "guacamole receta",
+        "guacamole mexicano",
+        "como hacer guacamole"
+      ]
+    },
+    {
+      "id": "https://recetasmexicanascaseras.com/tacos-carne-asada/",
+      "url": "https://recetasmexicanascaseras.com/tacos-carne-asada/",
+      "title": "Tacos de Carne Asada",
+      "content_text": "Tacos de Carne Asada. Carne asada en tiras sobre tortilhas de milho calientes con cebola, coentro y limão. El corte y la ",
+      "image": "https://recetasmexicanascaseras.com/images/tacos-carne-asada.webp",
+      "date_published": "2026-04-06T00:00:00Z",
+      "tags": [
+        "Tacos de carne asada",
+        "receta Tacos mexicanos",
+        "carne asada para Tacos"
+      ]
+    },
+    {
+      "id": "https://recetasmexicanascaseras.com/pozole-rojo-pollo/",
+      "url": "https://recetasmexicanascaseras.com/pozole-rojo-pollo/",
+      "title": "Pozole Vermelho de Frango",
+      "content_text": "Pozole Vermelho de Frango. Pozole vermelho con frango desfiado y milho pozolero. Versión simplificada que mantiene los sabores tra",
+      "image": "https://recetasmexicanascaseras.com/images/pozole-rojo-pollo.webp",
+      "date_published": "2026-04-06T00:00:00Z",
+      "tags": [
+        "pozole vermelho",
+        "receta pozole",
+        "pozole de frango Fácil"
+      ]
+    },
+    {
+      "id": "https://recetasmexicanascaseras.com/frijoles-refritos/",
+      "url": "https://recetasmexicanascaseras.com/frijoles-refritos/",
+      "title": "Feijão refogado",
+      "content_text": "Feijão refogado. Feijão pintos machacados y fritos en banha o óleo. Un básico de la cozinhe Mexicana que acompañ",
+      "image": "https://recetasmexicanascaseras.com/images/frijoles-refritos.webp",
+      "date_published": "2026-04-06T00:00:00Z",
+      "tags": [
+        "feijão refogado receta",
+        "como hacer feijão",
+        "feijão mexicanos"
+      ]
+    },
+    {
+      "id": "https://recetasmexicanascaseras.com/enchiladas-rojas-pollo/",
+      "url": "https://recetasmexicanascaseras.com/enchiladas-rojas-pollo/",
+      "title": "Enchiladas Rojas de Frango",
+      "content_text": "Enchiladas Rojas de Frango. Tortilhas rellenas de frango desfiado, bañadas en molho vermelho de pimenta guajillo y gratinadas con qu",
+      "image": "https://recetasmexicanascaseras.com/images/enchiladas-rojas-pollo.webp",
+      "date_published": "2026-04-06T00:00:00Z",
+      "tags": [
+        "enchiladas rojas",
+        "enchiladas de frango",
+        "receta enchiladas mexicanas"
+      ]
+    },
+    {
+      "id": "https://recetasmexicanascaseras.com/quesadillas-queso/",
+      "url": "https://recetasmexicanascaseras.com/quesadillas-queso/",
+      "title": "Quesadillas de Queijo",
+      "content_text": "Quesadillas de Queijo. Quesadillas de queijo fundido en tortilha de milho o farinha. El antojito más rápido y versátil de la c",
+      "image": "https://recetasmexicanascaseras.com/images/quesadillas-queso.webp",
+      "date_published": "2026-04-06T00:00:00Z",
+      "tags": [
+        "quesadillas receta",
+        "quesadillas de queijo",
+        "quesadilla Mexicana Fácil"
+      ]
+    },
+    {
+      "id": "https://recetasmexicanascaseras.com/agua-fresca-jamaica/",
+      "url": "https://recetasmexicanascaseras.com/agua-fresca-jamaica/",
+      "title": "Agua Fresca de Jamaica",
+      "content_text": "Agua Fresca de Jamaica. Bebida refrescante de flor de jamaica (hibisco), endulzada con açúcar y servida bien fria. Presente ",
+      "image": "https://recetasmexicanascaseras.com/images/agua-fresca-jamaica.webp",
+      "date_published": "2026-04-06T00:00:00Z",
+      "tags": [
+        "agua de jamaica",
+        "receta jamaica",
+        "bebida Mexicana"
+      ]
+    },
+    {
+      "id": "https://recetasmexicanascaseras.com/tacos-pollo-al-pastor/",
+      "url": "https://recetasmexicanascaseras.com/tacos-pollo-al-pastor/",
+      "title": "Tacos de Frango al Pastor",
+      "content_text": "Prepara Tacos de frango al pastor con adobo de pimenta guajillo y piña. Receta Fácil y deliciosa lista en 45 minutos.",
+      "image": "https://recetasmexicanascaseras.com/images/tacos-pollo-al-pastor.webp",
+      "date_published": "2026-04-07T00:00:00Z",
+      "tags": [
+        "Tacos al pastor",
+        "frango al pastor",
+        "Tacos de frango",
+        "receta al pastor"
+      ]
+    },
+    {
+      "id": "https://recetasmexicanascaseras.com/tacos-pescado/",
+      "url": "https://recetasmexicanascaseras.com/tacos-pescado/",
+      "title": "Tacos de Peixe",
+      "content_text": "Tacos de peixe estilo Baja California con empanizado crocante de cerveza. Receta Fácil lista en 30 minutos.",
+      "image": "https://recetasmexicanascaseras.com/images/tacos-pescado.webp",
+      "date_published": "2026-04-08T00:00:00Z",
+      "tags": [
+        "Tacos de peixe",
+        "fish Tacos",
+        "Tacos baja",
+        "Tacos empanizados"
+      ]
+    },
+    {
+      "id": "https://recetasmexicanascaseras.com/tacos-carnitas/",
+      "url": "https://recetasmexicanascaseras.com/tacos-carnitas/",
+      "title": "Tacos de Carnitas",
+      "content_text": "Carnitas de porco estilo Michoacán, tiernas y doradas. Aprende a preparar este clásico mexicano paso a paso.",
+      "image": "https://recetasmexicanascaseras.com/images/tacos-carnitas.webp",
+      "date_published": "2026-04-08T00:00:00Z",
+      "tags": [
+        "Tacos de carnitas",
+        "carnitas de porco",
+        "carnitas michoacanas",
+        "porco dourado"
+      ]
+    },
+    {
+      "id": "https://recetasmexicanascaseras.com/sopa-azteca/",
+      "url": "https://recetasmexicanascaseras.com/sopa-azteca/",
+      "title": "Sopa Azteca",
+      "content_text": "",
+      "image": "https://recetasmexicanascaseras.com/images/sopa-azteca.webp",
+      "date_published": "2026-04-23T00:00:00Z",
+      "tags": [
+        "sopa azteca",
+        "sopa de tortilha Mexicana"
+      ]
+    },
+    {
+      "id": "https://recetasmexicanascaseras.com/tamales-rojos-pollo/",
+      "url": "https://recetasmexicanascaseras.com/tamales-rojos-pollo/",
+      "title": "Tamales Rojos de Frango",
+      "content_text": "",
+      "image": "https://recetasmexicanascaseras.com/images/tamales-rojos-pollo.webp",
+      "date_published": "2026-04-23T00:00:00Z",
+      "tags": [
+        "tamales rojos",
+        "tamales de frango"
+      ]
+    },
+    {
+      "id": "https://recetasmexicanascaseras.com/elote-en-vaso/",
+      "url": "https://recetasmexicanascaseras.com/elote-en-vaso/",
+      "title": "Milho en Vaso",
+      "content_text": "",
+      "image": "https://recetasmexicanascaseras.com/images/elote-en-vaso.webp",
+      "date_published": "2026-04-23T00:00:00Z",
+      "tags": [
+        "milho en vaso",
+        "esquites"
+      ]
+    },
+    {
+      "id": "https://recetasmexicanascaseras.com/chiles-rellenos/",
+      "url": "https://recetasmexicanascaseras.com/chiles-rellenos/",
+      "title": "Pimentas Rellenos",
+      "content_text": "",
+      "image": "https://recetasmexicanascaseras.com/images/chiles-rellenos.webp",
+      "date_published": "2026-04-23T00:00:00Z",
+      "tags": [
+        "pimentas rellenos",
+        "pimentas rellenos de queijo"
+      ]
+    },
+    {
+      "id": "https://recetasmexicanascaseras.com/tostadas-tinga-pollo/",
+      "url": "https://recetasmexicanascaseras.com/tostadas-tinga-pollo/",
+      "title": "Tostadas de Tinga de Frango",
+      "content_text": "",
+      "image": "https://recetasmexicanascaseras.com/images/tostadas-tinga-pollo.webp",
+      "date_published": "2026-04-23T00:00:00Z",
+      "tags": [
+        "tostadas de tinga",
+        "tinga de frango"
+      ]
+    },
+    {
+      "id": "https://recetasmexicanascaseras.com/mole-poblano/",
+      "url": "https://recetasmexicanascaseras.com/mole-poblano/",
+      "title": "Mole Poblano",
+      "content_text": "",
+      "image": "https://recetasmexicanascaseras.com/images/mole-poblano.webp",
+      "date_published": "2026-04-23T00:00:00Z",
+      "tags": [
+        "mole poblano",
+        "mole con frango"
+      ]
+    },
+    {
+      "id": "https://recetasmexicanascaseras.com/gorditas-frijol/",
+      "url": "https://recetasmexicanascaseras.com/gorditas-frijol/",
+      "title": "Gorditas de Frijol",
+      "content_text": "",
+      "image": "https://recetasmexicanascaseras.com/images/gorditas-frijol.webp",
+      "date_published": "2026-04-23T00:00:00Z",
+      "tags": [
+        "gorditas de frijol",
+        "gorditas mexicanas"
+      ]
+    }
+  ]
+}
