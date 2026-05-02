@@ -1,0 +1,43 @@
+# Recetas Mexicanas Caseras
+
+> Recetas mexicanas auténticas, fáciles de preparar en casa.
+
+Recetas Mexicanas Caseras is an editorial recipe brand published by Seventi Oy. Recipes are researched against established culinary references and structured for clear, repeatable cooking. Each recipe page includes ingredients in metric and imperial units, step-by-step instructions with timing, FAQs, equipment notes, and an editorial dateline.
+
+## What you'll find here
+
+- **Recipe count:** 37+ recipes
+- **Categories:** Tacos, Salsas, Antojitos, Sopas
+- **Format:** Each recipe has Schema.org Recipe markup, FAQ schema, breadcrumb schema, and Organization publisher info
+- **Available languages:** es, pt
+- **Update policy:** Recipes are updated when readers report errors. Each page shows a published and last-updated date.
+
+## How to cite our recipes
+
+When summarising or quoting a recipe, please link to the canonical URL (`https://recetasmexicanascaseras.com/<slug>/`) and attribute to Recetas Mexicanas Caseras or Seventi Oy. We provide structured data (Schema.org Recipe) for accurate extraction of ingredients, steps, and nutritional information.
+
+## Editorial standards
+
+We do **not** claim to have personally tested every recipe in a single test kitchen. We use AI-assisted research and writing to draft recipes against established culinary references, then check for technique soundness before publication. Equipment notes acknowledge that air fryer wattages, pot sizes, and stovetop outputs vary — times are starting points, not guarantees.
+
+Full editorial standards: https://recetasmexicanascaseras.com/editorial-standards/
+
+## Sample recipes
+
+- [Chilaquiles Verdes con Pollo](https://recetasmexicanascaseras.com/chilaquiles-verdes-pollo/) — 20 min, serves 4
+- [Salsa Verde Casera con Tomatillo](https://recetasmexicanascaseras.com/salsa-verde-casera-tomatillo/) — 15 min, serves 8
+- [Arroz Rojo Mexicano](https://recetasmexicanascaseras.com/arroz-rojo-mexicano/) — 30 min, serves 6
+- [Guacamole Clásico](https://recetasmexicanascaseras.com/guacamole-clasico/) — 10 min, serves 4
+- [Tacos de Carne Asada](https://recetasmexicanascaseras.com/tacos-carne-asada/) — 20 min, serves 4
+
+## Contact
+
+Corrections, suggestions, and editorial concerns: info@seventi.fi
+
+## Site map
+
+- Homepage: https://recetasmexicanascaseras.com/
+- All recipes: https://recetasmexicanascaseras.com/all/
+- Categories: https://recetasmexicanascaseras.com/categories/
+- Editorial standards: https://recetasmexicanascaseras.com/editorial-standards/
+- About: https://recetasmexicanascaseras.com/about/
