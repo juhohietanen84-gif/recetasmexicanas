@@ -6,7 +6,7 @@ Recetas Mexicanas Caseras is an editorial recipe brand published by Seventi Oy. 
 
 ## What you'll find here
 
-- **Recipe count:** 37+ recipes
+- **Recipe count:** 43+ recipes
 - **Categories:** Tacos, Salsas, Antojitos, Sopas
 - **Format:** Each recipe has Schema.org Recipe markup, FAQ schema, breadcrumb schema, and Organization publisher info
 - **Available languages:** es, pt
